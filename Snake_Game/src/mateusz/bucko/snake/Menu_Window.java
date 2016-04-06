@@ -35,7 +35,7 @@ public class Menu_Window extends JFrame implements ActionListener {
 		Object source = e.getSource();
 
 		if (source == start_Game) {
-			new Snake();
+			new Snake(); 
 		}
 
 	}
